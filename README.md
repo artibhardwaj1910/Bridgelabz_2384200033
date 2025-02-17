@@ -14,3 +14,4 @@ Task 12: Assignment 12, solutions of inheritance uploaded on 08/02/2025
 Task 13: Assignment 13, solutions of encapsulation and polymorphism uploaded on 10/02/2025
 Task 14: Assignment 14, solutions of linkedlist uploaded on 12/02/2025
 Task 15: Assignment 15, solutions of stack, queue and hash uploaded on 13/02/2025
+Task 16: Assignment 16, solutions of sorting algorithms uploaded on 14/02/2025
