@@ -17,3 +17,4 @@ Task 15: Assignment 15, solutions of stack, queue and hash uploaded on 13/02/202
 Task 16: Assignment 16, solutions of sorting algorithms uploaded on 14/02/2025
 Task 17: Assignment 17, solutions of linear and binary search uploaded on 16/02/2025
 Task 18: Assignment 18, solutions of algorithm analysis uploaded on 17/02/2025
+Task 19: Assignment 19, solutions of generics uploaded on 18/02/2025
