@@ -20,3 +20,4 @@ Task 18: Assignment 18, solutions of algorithm analysis uploaded on 17/02/2025
 Task 19: Assignment 19, solutions of generics uploaded on 18/02/2025
 Task 20: Assignment 20, solutions of collections uploaded on 19/02/2025
 Task 21: Assignment 21, solutions of streams uploaded on 20/02/2025
+Task 22: Assignment 22, solutions of exceptions uploaded on 21/02/2025
