@@ -23,3 +23,4 @@ Task 21: Assignment 21, solutions of streams uploaded on 20/02/2025
 Task 22: Assignment 22, solutions of exceptions uploaded on 21/02/2025
 Task 23: Assignment 23, solutions of Regex & Unit Testing uploaded on 22/02/2025
 Task 24: Assignment 24, solutions of Annotations & Reflection uploaded on 24/02/2025
+Task 25: Assignment 25, solutions of CSV Data Handling uploaded on 25/02/2025
