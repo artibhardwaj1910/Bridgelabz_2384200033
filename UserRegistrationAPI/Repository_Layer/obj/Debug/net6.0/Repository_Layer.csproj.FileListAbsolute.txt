@@ -1,0 +1,11 @@
+C:\Users\Ankit Singh\source\repos\Repository_Layer\bin\Debug\net6.0\Repository_Layer.deps.json
+C:\Users\Ankit Singh\source\repos\Repository_Layer\bin\Debug\net6.0\Repository_Layer.dll
+C:\Users\Ankit Singh\source\repos\Repository_Layer\bin\Debug\net6.0\Repository_Layer.pdb
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.AssemblyInfoInputs.cache
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.AssemblyInfo.cs
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.dll
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\refint\Repository_Layer.dll
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.pdb
+C:\Users\Ankit Singh\source\repos\Repository_Layer\obj\Debug\net6.0\ref\Repository_Layer.dll
