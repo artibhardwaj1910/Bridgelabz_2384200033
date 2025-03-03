@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "UserResgistration1.Controllers.UserRegistrationController",
+    "Method": "Register",
+    "RelativePath": "UserRegistration/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "RepositoryLayer1.Entity.UserEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

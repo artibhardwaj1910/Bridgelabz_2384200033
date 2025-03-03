@@ -1,0 +1,14 @@
+C:\Users\91870\source\repos\RepositoryLayer1\bin\Debug\net6.0\RepositoryLayer1.deps.json
+C:\Users\91870\source\repos\RepositoryLayer1\bin\Debug\net6.0\RepositoryLayer1.runtimeconfig.json
+C:\Users\91870\source\repos\RepositoryLayer1\bin\Debug\net6.0\RepositoryLayer1.dll
+C:\Users\91870\source\repos\RepositoryLayer1\bin\Debug\net6.0\RepositoryLayer1.pdb
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.AssemblyInfoInputs.cache
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.AssemblyInfo.cs
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.dll
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\refint\RepositoryLayer1.dll
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.pdb
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\RepositoryLayer1.genruntimeconfig.cache
+C:\Users\91870\source\repos\RepositoryLayer1\obj\Debug\net6.0\ref\RepositoryLayer1.dll

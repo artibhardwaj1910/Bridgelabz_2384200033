@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\log\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:log\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898B5E02-0787-4625-AF0B-90174D000067}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\91870\\source\\repos\\repositorylayer1\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12548FB2-057F-4F21-AE90-1D229DEE13A0}|..\\BusinessLayer1\\BusinessLayer1.csproj|c:\\users\\91870\\source\\repos\\businesslayer1\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898B5E02-0787-4625-AF0B-90174D000067}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\91870\\source\\repos\\repositorylayer1\\migrations\\20250302101601_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898B5E02-0787-4625-AF0B-90174D000067}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\91870\\source\\repos\\repositorylayer1\\interface\\iuserregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898B5E02-0787-4625-AF0B-90174D000067}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\91870\\source\\repos\\repositorylayer1\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898B5E02-0787-4625-AF0B-90174D000067}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\91870\\source\\repos\\repositorylayer1\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12548FB2-057F-4F21-AE90-1D229DEE13A0}|..\\BusinessLayer1\\BusinessLayer1.csproj|c:\\users\\91870\\source\\repos\\businesslayer1\\interface\\iuserregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898B5E02-0787-4625-AF0B-90174D000067}|..\\RepositoryLayer1\\RepositoryLayer1.csproj|c:\\users\\91870\\source\\repos\\repositorylayer1\\repositorylayer1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\userresgistration1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:userresgistration1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|c:\\users\\91870\\source\\repos\\userresgistration1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B0B33E3-CB92-43C5-A05C-1FB3F37E1346}|UserResgistration1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T09:57:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:08:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Interface\\IUserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\Interface\\IUserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Interface\\IUserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\Interface\\IUserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:07:33.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\BusinessLayer1\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer1\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\BusinessLayer1\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer1\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:06:57.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:39:31.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.log",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Log\\app.log",
+              "RelativeDocumentMoniker": "Log\\app.log",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Log\\app.log",
+              "RelativeToolTip": "Log\\app.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-02T09:00:40.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250302101601_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Migrations\\20250302101601_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\Migrations\\20250302101601_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Migrations\\20250302101601_InitialMigration.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\Migrations\\20250302101601_InitialMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:16:02.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:04:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:50:30.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\Context\\UserContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer1\\Context\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:08:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\BusinessLayer1\\Interface\\IUserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer1\\Interface\\IUserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\BusinessLayer1\\Interface\\IUserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer1\\Interface\\IUserRegistrationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:06:27.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryLayer1.csproj",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\RepositoryLayer1.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer1\\RepositoryLayer1.csproj",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RepositoryLayer1\\RepositoryLayer1.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer1\\RepositoryLayer1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T09:12:59.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T09:00:58.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T08:53:59.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserResgistration1.csproj",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\UserResgistration1.csproj",
+              "RelativeDocumentMoniker": "UserResgistration1.csproj",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\UserResgistration1.csproj",
+              "RelativeToolTip": "UserResgistration1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T08:51:32.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\UserResgistration1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T08:40:45.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
